@@ -1,0 +1,11 @@
+Dikarenakan bebas maka saya akan menulis resum pada hari 1 osjur
+Membahas tentang plantfrom GithHub merupakan manajemen project, sistem versioning code, sekaligus platform jaringan sosial bagi para developer seluruh dunia. Banyak sekali fungsi yang bisa digunakan oleh para
+developer, sehingga melalui platform ini memudahkan developer dalam mengembangkan sebuah karya.
+GitHub dapat memudahkan tim untuk bekerja secara bersama-sama di proyek yang sama, bahkan dari tempat yang berbeda.
+juga dapat melacak semua perubahan kode, sehingga mudah untuk kembali ke versi sebelumnya jika terjadi masalah 
+Menyimpan kode secara aman di cloud, dengan akses yang mudah dari mana saja
+Beberapa fitur GitHub :
+Repository: Tempat penyimpanan kode dan histori perubahan. 
+Commit: Proses menyimpan perubahan ke repository. 
+Branches: Membuat jalur paralel untuk mengembangkan fitur baru tanpa mengganggu kode utama. 
+Pull Requests: Fasilitas untuk mengusulkan perubahan kode dan menggabungkannya ke dalam branch utama.
